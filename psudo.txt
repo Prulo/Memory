@@ -1,0 +1,3 @@
+// skapa array med olika namn
+// skapa en loop som tar från array och delar ut värde på korten
+// 
